@@ -1,1 +1,1 @@
-# Infix-_to_Postfix_Simulator
+COMPILER DESIGN MINI PROJECT (INFIX TO POSTFIX)
